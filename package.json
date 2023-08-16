@@ -8,10 +8,6 @@
   },
   "author": "https://github.com/alvivar",
   "license": "MIT?",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/luisplata/TeaTime.git#PackageForUnity" 
-  },
   "bugs": {
     "url": "https://github.com/luisplata/TeaTime/issues"
   },
