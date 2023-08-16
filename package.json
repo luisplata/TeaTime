@@ -1,0 +1,19 @@
+{
+  "name": "TeaTime",
+  "version": "1.0.0",
+  "displayName": "TeaTime",
+  "description": "Corrutines for Unity extended with a few useful features.",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.0"
+  },
+  "author": "https://github.com/alvivar",
+  "license": "MIT?",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisplata/TeaTime.git#PackageForUnity" 
+  },
+  "bugs": {
+    "url": "https://github.com/luisplata/TeaTime/issues"
+  },
+  "homepage": "https://github.com/luisplata/TeaTime"
+}
